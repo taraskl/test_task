@@ -31,6 +31,7 @@ test. For creating unit test we are suggests using pytest.
 Implementation
 
 Example of input
+
 55 14 25 52 21
 
 44 31 11 53 43
